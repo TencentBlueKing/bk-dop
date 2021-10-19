@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "clean other version's files"
+# rm -rf blueking
+
+echo "update requirements.txt"
+cat requirements_services.txt >> requirements.txt

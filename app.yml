@@ -1,0 +1,15 @@
+app_code: bk_dop
+app_name: DOP平台
+app_name_en: BK DOP
+is_use_celery: True
+author: 蓝鲸智云
+introduction: DOP是一个基于蓝鲸智云开发的数据管理工具，旨在简化各类大数据组件的日常运维操作、降低使用门槛、提高运维效率，目前支持Elasticsearch、Kafka、Hadoop。
+introduction_en: DOP is a data management tool developed based on Blue Whale Smart Cloud. It aims to simplify the daily operation and maintenance of various big data components, lower the threshold of use, and improve the efficiency of operation and maintenance. It currently supports Elasticsearch, Kafka, and Hadoop.
+version: 1.0.1
+category: 运维工具
+language: python
+language_support: 英语
+desktop:
+  width: 1300
+  height: 720
+  is_max: True
